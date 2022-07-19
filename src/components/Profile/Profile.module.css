@@ -45,7 +45,9 @@
 .item {
   display: flex;
   flex-direction: column;
-  width: calc((100% - 15px * 4) / 3);
+  /* align-items: center;
+  justify-content: center; */
+  /* width: calc((100% - 15px * 4) / 3); */
   padding: 10px 15px 10px 15px;
 }
 .item:not(:last-child) {

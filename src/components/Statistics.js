@@ -15,11 +15,11 @@ function Statistics({ title = '1', data }) {
     </section>
   );
 }
-
+//
 Statistics.propTypes = {
   id: PropTypes.number,
   label: PropTypes.string,
   percentage: PropTypes.number,
 };
-
+// dfbsdbfsdbd
 export default Statistics;
